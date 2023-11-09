@@ -1,0 +1,1 @@
+# -ResponsivParagraph_Word_Counter
